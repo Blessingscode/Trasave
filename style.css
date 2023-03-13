@@ -74,13 +74,13 @@ span{
     top: 25%;
     width: 100%;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 3rem;
   }
   
   .overlay a {
-    padding: 8px;
+    padding: 1rem;
     text-decoration: none;
-    font-size: 36px;
+    font-size: 2.2rem;
     color: #ffffff;
     display: block;
     transition: 0.3s;
