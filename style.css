@@ -15,7 +15,7 @@ body {
     font-size: 1.5rem;
     color: #ffffff;
     background: #000000;
-    padding: 0 15rem;
+    padding: 0 12rem;
 } 
 
 /* header starts here */
@@ -115,27 +115,25 @@ main{
 }
 .main img{
     float: right;
-    width: 50rem;
+    width: 500px;
 }
 .main .image{
-    width: 25rem;
-    margin-top: 1rem;
+    width: 15rem;
+    margin-top: 2rem;
 }
 .main .images{
-    width: 20rem;
+    width: 15rem;
     margin-top: 2rem;
-    margin-right: 9.5rem;
+    margin-right: 8rem;
 }
 .main h1 bold{
     color: #37a337;
 }
 .main h1{
-    font-size: 5rem;
-    line-height: 5rem;
+    font-size: 3.2rem;
 }
 .main p{
     margin: 1rem 0;
-    line-height: 2rem;
     font-size: 1.8rem;
 }
 
@@ -158,8 +156,8 @@ main{
 
 /* section starts here */
 section h1{
-    margin-top: 30rem;
-    font-size: 5rem;
+    margin-top: 25rem;
+    font-size: 4rem;
     padding: 2rem;
     text-align: center;
 }
